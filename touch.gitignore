@@ -1,0 +1,14 @@
+# system files
+*.log
+*.lock
+*.dat
+*.history
+
+# node / vscode
+node_modules/
+.vscode/
+*.code-workspace
+
+# windows / mac
+.DS_Store
+Thumbs.db
